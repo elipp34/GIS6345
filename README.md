@@ -1,2 +1,2 @@
 # GIS6345
-Week4
+Assignments
